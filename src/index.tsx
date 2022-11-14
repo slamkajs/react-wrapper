@@ -14,7 +14,7 @@
  * limitations under the License.
  */
 
-import {Loader, LoaderOptions} from '@googlemaps/js-api-loader';
+import {Loader, LoaderOptions} from '@slamkajs/js-api-loader';
 import React, {ReactElement, ReactNode, useEffect, useState} from 'react';
 
 export enum Status {
