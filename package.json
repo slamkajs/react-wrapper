@@ -1,5 +1,5 @@
 {
-  "name": "@googlemaps/react-wrapper",
+  "name": "@slamkajs/react-wrapper",
   "version": "1.1.38",
   "description": "React component that wraps the loading of Google Maps JavaScript API.",
   "keywords": [
@@ -7,13 +7,13 @@
     "maps",
     "react"
   ],
-  "homepage": "https://github.com/googlemaps/react-wrapper",
+  "homepage": "https://github.com/slamkajs/react-wrapper",
   "bugs": {
-    "url": "https://github.com/googlemaps/react-wrapper/issues"
+    "url": "https://github.com/slamkajs/react-wrapper/issues"
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/googlemaps/react-wrapper.git"
+    "url": "https://github.com/slamkajs/react-wrapper.git"
   },
   "license": "Apache-2.0",
   "author": "Justin Poehnelt",
